@@ -27,12 +27,13 @@
 
 
 
-### 🌱 Currently Studying
+### 🌱 Studying
 
 ---
 
 * Programming Language (Java / Python)
 * Web Programming (JSP / Servlet)
+* TypeScript
 
 
 
